@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f4b7ffbb81.hongmeirc.cn/sitemap.xml
